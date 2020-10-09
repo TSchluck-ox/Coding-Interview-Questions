@@ -1,0 +1,6 @@
+Question from 10/09:
+
+Create a function which takes strings terminated by newline characters representing two binary numbers
+separated by a comma (ex. '001,1101\n') and returns their sum as string representing binary.
+
+Ex. in '01,1101\n' out '1110'

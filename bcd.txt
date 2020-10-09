@@ -1,0 +1,7 @@
+Question from 10/09:
+
+Write a function which takes a string terminated by a newline char representing an integer (ex.'12\n')
+and returns a string representing the binary coded decimal expansion of each digit separated by a single space
+
+ex. in '12\n' out '0001 0010'
+in '9\n' out '1001'
