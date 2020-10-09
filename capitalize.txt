@@ -1,0 +1,12 @@
+Question from 10/08:
+
+Create a program which takes strings from standard in and capitalizes the first letter of each word.
+Ex. in: hello, world!
+out: Hello, World!
+
+starting code:
+
+import sys
+
+for line in sys.stdin:
+    print(line,end='')

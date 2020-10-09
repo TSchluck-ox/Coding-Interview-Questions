@@ -1,0 +1,14 @@
+Question from 10/08
+
+Create a program that takes a message from stdin in digits eg. '12256391' and prints how many possible
+different intepretations it can be of the numbers 1 to 26 representing alphabetic chars.
+
+Ex. 123
+can be 1, 2, 3 = abc
+12, 3 = lc
+1, 23 = aw
+so 3 total readings
+
+Ex. 1234
+can be 1,2,3,4; 12,3,4; 1,23,4;
+so 3 total readings
